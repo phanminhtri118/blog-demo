@@ -2,6 +2,17 @@ This is a Next.js application for a blog platform featuring posts, comments, and
 
 Follow these instructions to get the project up and running on your local machine for development and testing purposes.
 
+## Demo
+
+The application is deployed on Vercel and can be accessed at the following URL:
+
+- **URL:** [https://blog-demo-eta-two.vercel.app/](https://blog-demo-eta-two.vercel.app/)
+
+You can use the following credentials to log in as a guest and test the application's features:
+
+- **Email:** `guest.demo@example.com`
+- **Password:** `Qz!8rT@92m`
+
 ### Prerequisites
 
 - Node.js (v18 or later)
